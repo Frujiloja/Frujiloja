@@ -10,6 +10,11 @@ My focus is on creating exceptional digital experiences that seamlessly blend ae
 
 I have experience with Javascript, NodeJs, Express, HTML, CSS, React, NextJs, PostgreSQL, GIT, Redux, Styled Components, CORS, ES6, HTTPS, Chakra UI, Asynchronous Programming, Responsive Programming, Scrum.
 
+Feel free to get in touch!
+
+LinkedIn: Martin Fuks
+Email: martinfukss@gmail.com.
+
 <!--
 **Frujiloja/Frujiloja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
