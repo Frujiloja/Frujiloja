@@ -7,10 +7,6 @@
 <h4 align="center">I'm a Fullstack Programmer with a focus on Front-end design and creating visual content.</h4>
 <br>
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=candida18&theme=algolia" alt="candida18"  /></p>
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
