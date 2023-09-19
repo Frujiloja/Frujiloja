@@ -6,6 +6,9 @@
 <hr/>
 <h4 align="center">I'm a Fullstack Programmer with a focus on Front-end design and creating visual content. At 25 years old, I combine my passion for design with my experience as a full-stack programmer. My solid background in design uniquely melds with my ability to code innovative and effective solutions. From an early age, I've been captivated by technology and coding, fostering a deep and enduring interest in the field.</h4>
 <br>
+<h3>In my professional journey, I've had the opportunity to lead teams and manage projects, leveraging my capacity to communicate ideas effectively and motivate my colleagues. I firmly believe in collaboration as the engine of success and enjoy the dynamics of teamwork.
+
+My focus is on creating exceptional digital experiences that seamlessly blend aesthetics and functionality. Additionally, my proficiency in English allows me to collaborate on global projects and communicate fluently with international teams.</h3>
 
 ## 🛠️ My Skills
 
