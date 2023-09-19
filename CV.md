@@ -53,6 +53,8 @@
   <a href="#">
   	<img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white"/>
   </a>
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-2A2BA5"/>
+
  </p>
 
  ### 👉 Software & Tools
