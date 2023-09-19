@@ -27,10 +27,7 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
 	&emsp;
-  <a href="https://chakra-ui.com/" target="_blank"> 
-    <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20Ui-8A2BE2
-"/>
-  </a>
+    <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20Ui-8A2BE2"/>
 </p>
 <p align="left">
   &emsp;
