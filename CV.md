@@ -28,6 +28,12 @@
   </a>
 	&emsp;
     <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra%20Ui-8A2BE2"/>
+		&emsp;
+    <img alt="React" src="https://img.shields.io/badge/React-2N7BA5
+"/>
+		&emsp;
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.Js-35f5e4
+"/>
 </p>
 <p align="left">
   &emsp;
