@@ -83,7 +83,7 @@ My focus is on creating exceptional digital experiences that seamlessly blend ae
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## Let's Connect
 <p align="center">
   <a href="https://portfoliomf.netlify.app/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:martinfukss@gmail.com" ><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
